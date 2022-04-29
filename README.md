@@ -6,3 +6,9 @@
 2- دریافت دیتا از لینک ها
 
 3- ذخیره دیتا داخل اکسل
+
+name = input("name file = ")
+
+address = input("address cat url = ")
+
+tedad = int(input("number page cat = "))
